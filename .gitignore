@@ -1,0 +1,6 @@
+openssl/*
+client/bingoforever.exe
+client/bingo_config.txt
+server/bingoserver.exe
+server/libcrypto-3-x64.dll
+server/libssl-3-x64.dll
